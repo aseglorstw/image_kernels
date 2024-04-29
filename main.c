@@ -6,7 +6,6 @@
 #include <math.h>
 #include <unistd.h>
 
-
 #define MAX_COLOR_VALUE 255
 
 int main(int argc, char **argv) {
