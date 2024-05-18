@@ -32,7 +32,7 @@ The histogram is calculated over five intervals:
 
 
 <p align="center">
-  <img src="https://s3.ezgif.com/tmp/ezgif-3-b6edd471a0.jpg">
+  <img src="https://hazelcast.com/wp-content/uploads/2021/12/7_CacheMiss_1.png">
 </p>
 
 
